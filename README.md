@@ -1,4 +1,4 @@
-##### Minha Segunda aplicação Reat
+##### Minha Segunda aplicação React
 
 ### Repo and Issues gitHub
 

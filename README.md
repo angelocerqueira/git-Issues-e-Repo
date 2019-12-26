@@ -1,4 +1,4 @@
-##### Minha Segunda aplicação
+##### Minha Segunda aplicação Reat
 
-### Repo and Issues gitgub
+### Repo and Issues gitHub
 
